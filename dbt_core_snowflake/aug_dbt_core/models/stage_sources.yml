@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: STAGE_DB
+    schema: DBO
+    tables:
+      - name: orders
+      - name: customers
+      - name: products

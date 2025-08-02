@@ -1,0 +1,1 @@
+SELECT * FROM {{ source('STAGE_DB', 'products') }}

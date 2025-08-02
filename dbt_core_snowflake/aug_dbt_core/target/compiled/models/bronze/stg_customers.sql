@@ -1,0 +1,1 @@
+select * from STAGE_DB.DBO.customers

@@ -1,0 +1,1 @@
+SELECT * FROM STAGE_DB.DBO.products

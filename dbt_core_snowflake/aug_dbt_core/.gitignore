@@ -1,0 +1,6 @@
+echo target/ >> .gitignore
+echo dbt_packages/ >> .gitignore
+echo .env >> .gitignore
+echo .DS_Store >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.log >> .gitignore
